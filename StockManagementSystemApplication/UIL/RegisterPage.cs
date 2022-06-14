@@ -111,6 +111,45 @@ namespace StockManagementSystemApplication.UIL
         {
             Application.Exit();
         }
-        
+
+        private void firstNameTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                lastNameTextBox.Focus();
+            }
+        }
+
+        private void lastNameTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                userNameTextBox.Focus();
+            }
+        }
+
+        private void userNameTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode== Keys.Enter)
+            {
+                passwordTextBox.Focus();
+            }
+        }
+
+        private void passwordTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if( e.KeyCode == Keys.Enter)
+            {
+                emailTextBox.Focus();
+            }
+        }
+
+        private void emailTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode==Keys.Enter)
+            {
+                LoginButton.PerformClick();
+            }
+        }
     }
 }

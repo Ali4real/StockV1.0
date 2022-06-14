@@ -88,6 +88,7 @@
             this.firstNameTextBox.Name = "firstNameTextBox";
             this.firstNameTextBox.Size = new System.Drawing.Size(116, 20);
             this.firstNameTextBox.TabIndex = 8;
+            this.firstNameTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.firstNameTextBox_KeyDown);
             // 
             // lastNameTextBox
             // 
@@ -95,6 +96,7 @@
             this.lastNameTextBox.Name = "lastNameTextBox";
             this.lastNameTextBox.Size = new System.Drawing.Size(116, 20);
             this.lastNameTextBox.TabIndex = 8;
+            this.lastNameTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.lastNameTextBox_KeyDown);
             // 
             // label4
             // 
@@ -124,6 +126,7 @@
             this.userNameTextBox.Name = "userNameTextBox";
             this.userNameTextBox.Size = new System.Drawing.Size(116, 20);
             this.userNameTextBox.TabIndex = 8;
+            this.userNameTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.userNameTextBox_KeyDown);
             // 
             // passwordTextBox
             // 
@@ -132,6 +135,7 @@
             this.passwordTextBox.Size = new System.Drawing.Size(116, 20);
             this.passwordTextBox.TabIndex = 8;
             this.passwordTextBox.TextChanged += new System.EventHandler(this.passwordTextBox_TextChanged);
+            this.passwordTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.passwordTextBox_KeyDown);
             // 
             // label6
             // 
@@ -150,6 +154,7 @@
             this.emailTextBox.Name = "emailTextBox";
             this.emailTextBox.Size = new System.Drawing.Size(116, 20);
             this.emailTextBox.TabIndex = 8;
+            this.emailTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.emailTextBox_KeyDown);
             // 
             // RegisterButton
             // 

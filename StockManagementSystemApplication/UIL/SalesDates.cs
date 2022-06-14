@@ -147,7 +147,7 @@ namespace StockManagementSystemApplication
 
         private void exitToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("yes or no?",
+            if (MessageBox.Show("Are you sure?",
                           "Stock Management System",
                            MessageBoxButtons.YesNo,
                            MessageBoxIcon.Information) == DialogResult.Yes)
@@ -186,6 +186,11 @@ namespace StockManagementSystemApplication
         private void SalesDates_FormClosing(object sender, FormClosingEventArgs e)
         {
              Application.Exit();
+        }
+
+        private void fromDateTimePicker_ValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

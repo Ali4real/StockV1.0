@@ -81,6 +81,7 @@
             this.fromDateTimePicker.Name = "fromDateTimePicker";
             this.fromDateTimePicker.Size = new System.Drawing.Size(304, 20);
             this.fromDateTimePicker.TabIndex = 1;
+            this.fromDateTimePicker.ValueChanged += new System.EventHandler(this.fromDateTimePicker_ValueChanged);
             // 
             // label2
             // 

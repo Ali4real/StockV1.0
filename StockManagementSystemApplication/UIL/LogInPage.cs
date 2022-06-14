@@ -74,5 +74,21 @@ namespace StockManagementSystemApplication
         {
 
         }
+
+        private void usernameTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                passwordTextBox.Focus();
+            }
+        }
+
+        private void passwordTextBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode== Keys.Enter)
+            {
+                LogInButton.PerformClick();
+            }
+        }
     }
 }
