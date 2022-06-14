@@ -1,0 +1,179 @@
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csprojAssemblyReference.cache
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Company_Setup.resources
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.cache
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.CoreCompileInputs.cache
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+C:\Users\kms\Desktop\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csprojResolveAssemblyReference.cache
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Company_Setup.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.Cache
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csprojAssemblyReference.cache
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Company_Setup.resources
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.cache
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.CoreCompileInputs.cache
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.CategorySetup.resources
+C:\Users\kms\Desktop\KM\Group project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemSetup.resources
+C:\Users\Tanvir Hridoy\Downloads\StockManagementSystemApplication-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+C:\Users\Tanvir Hridoy\Downloads\StockManagementSystemApplication-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+C:\Users\Tanvir Hridoy\Downloads\StockManagementSystemApplication-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.CategorySetup.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\StockManagementSystemApplication\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemSetup.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Company_Setup.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemSetup.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Downloads\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.CategorySetup.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csprojResolveAssemblyReference.cache
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.CatagorySetup.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Company_Setup.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemSetup.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.Cache
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System-master\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csprojResolveAssemblyReference.cache
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.CatagorySetup.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemSetup.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.Cache
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+C:\Users\Tanvir Hridoy\Desktop\SMK project\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.CompanySetup.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csprojResolveAssemblyReference.cache
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.CatagorySetup.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.CompanySetup.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemSetup.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.Cache
+F:\Tan2\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.RegisterPage.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csprojResolveAssemblyReference.cache
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.CatagorySetup.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.CompanySetup.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemSetup.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.RegisterPage.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+G:\Web App Develop .Net Class Contents\Project\Stock-Management-System(Final)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.Cache
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csprojResolveAssemblyReference.cache
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.CatagorySetup.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.CompanySetup.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemSetup.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.RegisterPage.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+H:\Web App Develop .Net Class Contents\Project\SMS(Avant-Garde)\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe.config
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.exe
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\bin\Debug\StockManagementSystemApplication.pdb
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.AssemblyReference.cache
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.CatagorySetup.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.CompanySetup.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.HomePage.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemSetup.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.LogInPage.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Properties.Resources.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.ItemsSummary.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.UIL.RegisterPage.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.SalesDates.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_In.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.Stock_Out.resources
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.GenerateResource.cache
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.exe
+C:\Users\Ahsan\Desktop\Imp\Stock-Management-System\StockManagementSystemApplication\obj\Debug\StockManagementSystemApplication.pdb

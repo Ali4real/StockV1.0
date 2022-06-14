@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2BBA8B6-BC0A-4FEC-8B7E-85FDE1D415B6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>StockManagementSystemApplication</RootNamespace>
+    <AssemblyName>StockManagementSystemApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\CatagoryManager.cs" />
+    <Compile Include="BLL\CompanyManager.cs" />
+    <Compile Include="BLL\ItemsManager.cs" />
+    <Compile Include="BLL\ItemsSummeryManager.cs" />
+    <Compile Include="BLL\LogInPageManager.cs" />
+    <Compile Include="BLL\RegisterManager.cs" />
+    <Compile Include="BLL\SalesDatesManager.cs" />
+    <Compile Include="BLL\StockInManager.cs" />
+    <Compile Include="BLL\StockOutManager.cs" />
+    <Compile Include="DAL\CompanyRepository.cs" />
+    <Compile Include="DAL\ItemsRepository.cs" />
+    <Compile Include="DAL\ItemsSummeryRepository.cs" />
+    <Compile Include="DAL\LogInPageRepository.cs" />
+    <Compile Include="DAL\RegisterRepository.cs" />
+    <Compile Include="DAL\SalesDatesRepository.cs" />
+    <Compile Include="DAL\StockInRepository.cs" />
+    <Compile Include="DAL\StockOutRepository.cs" />
+    <Compile Include="Modals\Catagory.cs" />
+    <Compile Include="DAL\CatagoryRepository.cs" />
+    <Compile Include="Modals\Company.cs" />
+    <Compile Include="Modals\Items.cs" />
+    <Compile Include="Modals\ItemsSummeryClass.cs" />
+    <Compile Include="Modals\LogInPageClass.cs" />
+    <Compile Include="Modals\RegistrationInformation.cs" />
+    <Compile Include="Modals\SalesDatesClass.cs" />
+    <Compile Include="Modals\StockInClass.cs" />
+    <Compile Include="Modals\StockOutClass.cs" />
+    <Compile Include="Stock_Management_System_currentDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stock_Management_System_currentDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Stock_Management_System_currentDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stock_Management_System_currentDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\CatagorySetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\CatagorySetup.Designer.cs">
+      <DependentUpon>CatagorySetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\Company Setup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\Company Setup.Designer.cs">
+      <DependentUpon>Company Setup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\ItemSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\ItemSetup.Designer.cs">
+      <DependentUpon>ItemSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\ItemsSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\ItemsSummary.Designer.cs">
+      <DependentUpon>ItemsSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\LogInPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\LogInPage.Designer.cs">
+      <DependentUpon>LogInPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UIL\RegisterPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\RegisterPage.Designer.cs">
+      <DependentUpon>RegisterPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\SalesDates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\SalesDates.Designer.cs">
+      <DependentUpon>SalesDates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\Stock_Out.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\Stock_Out.Designer.cs">
+      <DependentUpon>Stock_Out.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIL\Stock_In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIL\Stock_In.Designer.cs">
+      <DependentUpon>Stock_In.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UIL\CatagorySetup.resx">
+      <DependentUpon>CatagorySetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\Company Setup.resx">
+      <DependentUpon>Company Setup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\ItemSetup.resx">
+      <DependentUpon>ItemSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\LogInPage.resx">
+      <DependentUpon>LogInPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UIL\ItemsSummary.resx">
+      <DependentUpon>ItemsSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\RegisterPage.resx">
+      <DependentUpon>RegisterPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\SalesDates.resx">
+      <DependentUpon>SalesDates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\Stock_In.resx">
+      <DependentUpon>Stock_In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIL\Stock_Out.resx">
+      <DependentUpon>Stock_Out.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="StockManagementSystemApplication.Modals.Catagory.datasource" />
+    <None Include="StockManagementSystemApplication.Modals.Company.datasource" />
+    <None Include="StockManagementSystemApplication.Modals.Items.datasource" />
+    <None Include="Stock_Management_System_currentDataSet.xsc">
+      <DependentUpon>Stock_Management_System_currentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Stock_Management_System_currentDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Stock_Management_System_currentDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Stock_Management_System_currentDataSet.xss">
+      <DependentUpon>Stock_Management_System_currentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Stock_Management_System_currentDataSet1.xsc">
+      <DependentUpon>Stock_Management_System_currentDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Stock_Management_System_currentDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Stock_Management_System_currentDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Stock_Management_System_currentDataSet1.xss">
+      <DependentUpon>Stock_Management_System_currentDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-symbol.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
