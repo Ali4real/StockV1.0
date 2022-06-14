@@ -145,7 +145,7 @@ namespace StockManagementSystemApplication
 
         private void exitToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("yes or no?",
+            if (MessageBox.Show("Are you sure?",
                           "Stock Management System",
                            MessageBoxButtons.YesNo,
                            MessageBoxIcon.Information) == DialogResult.Yes)
