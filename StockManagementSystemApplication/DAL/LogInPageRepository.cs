@@ -13,7 +13,7 @@ namespace StockManagementSystemApplication.DAL
     {
         public bool Check(LogInPageClass login)
         {
-            SqlConnection con = new SqlConnection(@"server=DESKTOP-B7EDMJ9\SQLEXPRESS;database=Stock Management System;integrated security=true");
+            SqlConnection con = new SqlConnection(@"server=DESKTOP-75IR95H\SQLEXPRESS;database=Stock Management System;integrated security=true");
             string query = @"SELECT Count(*) FROM UserInformation Where [UserName]='" + login.Username + "' and [Password]='" + login.Password + "'";
             con.Open();            
             SqlDataAdapter sda = new SqlDataAdapter(query, con);
