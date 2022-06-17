@@ -11,6 +11,21 @@
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -45,25 +60,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BLL\CatagoryManager.cs" />
-    <Compile Include="BLL\CompanyManager.cs" />
-    <Compile Include="BLL\ItemsManager.cs" />
-    <Compile Include="BLL\ItemsSummeryManager.cs" />
-    <Compile Include="BLL\LogInPageManager.cs" />
-    <Compile Include="BLL\RegisterManager.cs" />
-    <Compile Include="BLL\SalesDatesManager.cs" />
-    <Compile Include="BLL\StockInManager.cs" />
-    <Compile Include="BLL\StockOutManager.cs" />
-    <Compile Include="DAL\CompanyRepository.cs" />
-    <Compile Include="DAL\ItemsRepository.cs" />
-    <Compile Include="DAL\ItemsSummeryRepository.cs" />
-    <Compile Include="DAL\LogInPageRepository.cs" />
-    <Compile Include="DAL\RegisterRepository.cs" />
-    <Compile Include="DAL\SalesDatesRepository.cs" />
-    <Compile Include="DAL\StockInRepository.cs" />
-    <Compile Include="DAL\StockOutRepository.cs" />
+    <Compile Include="images\CatagoryManager.cs" />
+    <Compile Include="images\CompanyManager.cs" />
+    <Compile Include="images\ItemsManager.cs" />
+    <Compile Include="images\ItemsSummeryManager.cs" />
+    <Compile Include="images\LogInPageManager.cs" />
+    <Compile Include="images\RegisterManager.cs" />
+    <Compile Include="images\SalesDatesManager.cs" />
+    <Compile Include="images\StockInManager.cs" />
+    <Compile Include="images\StockOutManager.cs" />
+    <Compile Include="CompanyRepository.cs" />
+    <Compile Include="ItemsRepository.cs" />
+    <Compile Include="ItemsSummeryRepository.cs" />
+    <Compile Include="LogInPageRepository.cs" />
+    <Compile Include="RegisterRepository.cs" />
+    <Compile Include="SalesDatesRepository.cs" />
+    <Compile Include="StockInRepository.cs" />
+    <Compile Include="StockOutRepository.cs" />
     <Compile Include="Modals\Catagory.cs" />
-    <Compile Include="DAL\CatagoryRepository.cs" />
+    <Compile Include="CatagoryRepository.cs" />
     <Compile Include="Modals\Company.cs" />
     <Compile Include="Modals\Items.cs" />
     <Compile Include="Modals\ItemsSummeryClass.cs" />
@@ -227,6 +242,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\user-symbol.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

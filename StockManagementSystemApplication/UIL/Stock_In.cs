@@ -333,5 +333,10 @@ namespace StockManagementSystemApplication
             {   
                  Application.Exit();
             }
+
+            private void Stock_In_Load(object sender, EventArgs e)
+            {
+
+            }
     }
 }

@@ -78,9 +78,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label1.Location = new System.Drawing.Point(95, 82);
+            this.label1.Location = new System.Drawing.Point(142, 126);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(72, 19);
+            this.label1.Size = new System.Drawing.Size(106, 28);
             this.label1.TabIndex = 0;
             this.label1.Text = "Company";
             // 
@@ -89,9 +90,10 @@
             this.companyComboBox.DataSource = this.companyBindingSource;
             this.companyComboBox.DisplayMember = "CompanyName";
             this.companyComboBox.FormattingEnabled = true;
-            this.companyComboBox.Location = new System.Drawing.Point(171, 83);
+            this.companyComboBox.Location = new System.Drawing.Point(256, 128);
+            this.companyComboBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.companyComboBox.Name = "companyComboBox";
-            this.companyComboBox.Size = new System.Drawing.Size(211, 21);
+            this.companyComboBox.Size = new System.Drawing.Size(314, 28);
             this.companyComboBox.TabIndex = 1;
             this.companyComboBox.ValueMember = "CompanyId";
             this.companyComboBox.SelectedIndexChanged += new System.EventHandler(this.companyComboBox_SelectedIndexChanged);
@@ -104,9 +106,10 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label2.Location = new System.Drawing.Point(126, 116);
+            this.label2.Location = new System.Drawing.Point(189, 178);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(39, 19);
+            this.label2.Size = new System.Drawing.Size(57, 28);
             this.label2.TabIndex = 0;
             this.label2.Text = "Item";
             // 
@@ -114,9 +117,10 @@
             // 
             this.categoryComboBox.DataSource = this.categoryBindingSource;
             this.categoryComboBox.DisplayMember = "CategoryName";
-            this.categoryComboBox.Location = new System.Drawing.Point(171, 50);
+            this.categoryComboBox.Location = new System.Drawing.Point(256, 77);
+            this.categoryComboBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.categoryComboBox.Name = "categoryComboBox";
-            this.categoryComboBox.Size = new System.Drawing.Size(211, 21);
+            this.categoryComboBox.Size = new System.Drawing.Size(314, 28);
             this.categoryComboBox.TabIndex = 1;
             this.categoryComboBox.ValueMember = "CategoryId";
             this.categoryComboBox.SelectedIndexChanged += new System.EventHandler(this.categoryComboBox_SelectedIndexChanged);
@@ -129,26 +133,29 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label3.Location = new System.Drawing.Point(65, 149);
+            this.label3.Location = new System.Drawing.Point(98, 229);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(102, 19);
+            this.label3.Size = new System.Drawing.Size(153, 28);
             this.label3.TabIndex = 2;
             this.label3.Text = "Reorder Level";
             // 
             // quantityTextBox
             // 
-            this.quantityTextBox.Location = new System.Drawing.Point(171, 202);
+            this.quantityTextBox.Location = new System.Drawing.Point(256, 311);
+            this.quantityTextBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.quantityTextBox.Name = "quantityTextBox";
-            this.quantityTextBox.Size = new System.Drawing.Size(211, 20);
+            this.quantityTextBox.Size = new System.Drawing.Size(314, 26);
             this.quantityTextBox.TabIndex = 3;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label4.Location = new System.Drawing.Point(31, 175);
+            this.label4.Location = new System.Drawing.Point(46, 269);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(136, 19);
+            this.label4.Size = new System.Drawing.Size(198, 28);
             this.label4.TabIndex = 2;
             this.label4.Text = "Available Quantity";
             // 
@@ -156,18 +163,20 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label5.Location = new System.Drawing.Point(38, 202);
+            this.label5.Location = new System.Drawing.Point(57, 311);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(129, 19);
+            this.label5.Size = new System.Drawing.Size(188, 28);
             this.label5.TabIndex = 2;
             this.label5.Text = "Stock In Quantity";
             // 
             // SaveButton
             // 
             this.SaveButton.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.SaveButton.Location = new System.Drawing.Point(307, 251);
+            this.SaveButton.Location = new System.Drawing.Point(460, 386);
+            this.SaveButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.SaveButton.Name = "SaveButton";
-            this.SaveButton.Size = new System.Drawing.Size(75, 23);
+            this.SaveButton.Size = new System.Drawing.Size(112, 35);
             this.SaveButton.TabIndex = 4;
             this.SaveButton.Text = "Save";
             this.SaveButton.UseVisualStyleBackColor = false;
@@ -178,9 +187,10 @@
             this.itemComboBox.DataSource = this.itemBindingSource;
             this.itemComboBox.DisplayMember = "ItemName";
             this.itemComboBox.FormattingEnabled = true;
-            this.itemComboBox.Location = new System.Drawing.Point(171, 115);
+            this.itemComboBox.Location = new System.Drawing.Point(256, 177);
+            this.itemComboBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.itemComboBox.Name = "itemComboBox";
-            this.itemComboBox.Size = new System.Drawing.Size(211, 21);
+            this.itemComboBox.Size = new System.Drawing.Size(314, 28);
             this.itemComboBox.TabIndex = 5;
             this.itemComboBox.ValueMember = "ItemId";
             this.itemComboBox.SelectedIndexChanged += new System.EventHandler(this.itemComboBox_SelectedIndexChanged);
@@ -193,31 +203,35 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(95, 49);
+            this.label6.Location = new System.Drawing.Point(142, 75);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(70, 19);
+            this.label6.Size = new System.Drawing.Size(103, 28);
             this.label6.TabIndex = 6;
             this.label6.Text = "Catagory";
             // 
             // availableQuantityLabel
             // 
             this.availableQuantityLabel.AutoSize = true;
-            this.availableQuantityLabel.Location = new System.Drawing.Point(168, 176);
+            this.availableQuantityLabel.Location = new System.Drawing.Point(252, 271);
+            this.availableQuantityLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.availableQuantityLabel.Name = "availableQuantityLabel";
-            this.availableQuantityLabel.Size = new System.Drawing.Size(0, 13);
+            this.availableQuantityLabel.Size = new System.Drawing.Size(0, 20);
             this.availableQuantityLabel.TabIndex = 7;
             // 
             // reorderLevelLabel
             // 
             this.reorderLevelLabel.AutoSize = true;
-            this.reorderLevelLabel.Location = new System.Drawing.Point(168, 150);
+            this.reorderLevelLabel.Location = new System.Drawing.Point(252, 231);
+            this.reorderLevelLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.reorderLevelLabel.Name = "reorderLevelLabel";
-            this.reorderLevelLabel.Size = new System.Drawing.Size(0, 13);
+            this.reorderLevelLabel.Size = new System.Drawing.Size(0, 20);
             this.reorderLevelLabel.TabIndex = 7;
             // 
             // menuStrip1
             // 
             this.menuStrip1.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.homeToolStripMenuItem,
             this.setupToolStripMenuItem,
@@ -228,7 +242,8 @@
             this.exitToolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(558, 27);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(9, 3, 0, 3);
+            this.menuStrip1.Size = new System.Drawing.Size(837, 38);
             this.menuStrip1.TabIndex = 8;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -246,14 +261,14 @@
             this.homeToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.homeToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.homeToolStripMenuItem.Name = "homeToolStripMenuItem";
-            this.homeToolStripMenuItem.Size = new System.Drawing.Size(60, 23);
+            this.homeToolStripMenuItem.Size = new System.Drawing.Size(84, 32);
             this.homeToolStripMenuItem.Text = "&Home";
             // 
             // categorySetupToolStripMenuItem
             // 
             this.categorySetupToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.categorySetupToolStripMenuItem.Name = "categorySetupToolStripMenuItem";
-            this.categorySetupToolStripMenuItem.Size = new System.Drawing.Size(299, 24);
+            this.categorySetupToolStripMenuItem.Size = new System.Drawing.Size(425, 32);
             this.categorySetupToolStripMenuItem.Text = "&Category Setup";
             this.categorySetupToolStripMenuItem.Click += new System.EventHandler(this.categorySetupToolStripMenuItem_Click);
             // 
@@ -261,7 +276,7 @@
             // 
             this.companySetupToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.companySetupToolStripMenuItem.Name = "companySetupToolStripMenuItem";
-            this.companySetupToolStripMenuItem.Size = new System.Drawing.Size(299, 24);
+            this.companySetupToolStripMenuItem.Size = new System.Drawing.Size(425, 32);
             this.companySetupToolStripMenuItem.Text = "C&ompany Setup";
             this.companySetupToolStripMenuItem.Click += new System.EventHandler(this.companySetupToolStripMenuItem_Click);
             // 
@@ -269,7 +284,7 @@
             // 
             this.itemSetupToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.itemSetupToolStripMenuItem.Name = "itemSetupToolStripMenuItem";
-            this.itemSetupToolStripMenuItem.Size = new System.Drawing.Size(299, 24);
+            this.itemSetupToolStripMenuItem.Size = new System.Drawing.Size(425, 32);
             this.itemSetupToolStripMenuItem.Text = "&Item Setup";
             this.itemSetupToolStripMenuItem.Click += new System.EventHandler(this.itemSetupToolStripMenuItem_Click);
             // 
@@ -280,14 +295,14 @@
             this.stokInToolStripMenuItem,
             this.stockOutToolStripMenuItem1});
             this.stockInToolStripMenuItem.Name = "stockInToolStripMenuItem";
-            this.stockInToolStripMenuItem.Size = new System.Drawing.Size(299, 24);
+            this.stockInToolStripMenuItem.Size = new System.Drawing.Size(425, 32);
             this.stockInToolStripMenuItem.Text = "&Stock";
             // 
             // stokInToolStripMenuItem
             // 
             this.stokInToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.stokInToolStripMenuItem.Name = "stokInToolStripMenuItem";
-            this.stokInToolStripMenuItem.Size = new System.Drawing.Size(145, 24);
+            this.stokInToolStripMenuItem.Size = new System.Drawing.Size(194, 32);
             this.stokInToolStripMenuItem.Text = "Stock &In";
             this.stokInToolStripMenuItem.Click += new System.EventHandler(this.stokInToolStripMenuItem_Click);
             // 
@@ -295,7 +310,7 @@
             // 
             this.stockOutToolStripMenuItem1.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.stockOutToolStripMenuItem1.Name = "stockOutToolStripMenuItem1";
-            this.stockOutToolStripMenuItem1.Size = new System.Drawing.Size(145, 24);
+            this.stockOutToolStripMenuItem1.Size = new System.Drawing.Size(194, 32);
             this.stockOutToolStripMenuItem1.Text = "Stock &Out";
             this.stockOutToolStripMenuItem1.Click += new System.EventHandler(this.stockOutToolStripMenuItem1_Click);
             // 
@@ -303,7 +318,7 @@
             // 
             this.searchToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.searchToolStripMenuItem.Name = "searchToolStripMenuItem";
-            this.searchToolStripMenuItem.Size = new System.Drawing.Size(299, 24);
+            this.searchToolStripMenuItem.Size = new System.Drawing.Size(425, 32);
             this.searchToolStripMenuItem.Text = "S&earch And View Items Summary";
             this.searchToolStripMenuItem.Click += new System.EventHandler(this.searchToolStripMenuItem_Click);
             // 
@@ -311,7 +326,7 @@
             // 
             this.salesToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.salesToolStripMenuItem.Name = "salesToolStripMenuItem";
-            this.salesToolStripMenuItem.Size = new System.Drawing.Size(299, 24);
+            this.salesToolStripMenuItem.Size = new System.Drawing.Size(425, 32);
             this.salesToolStripMenuItem.Text = "Sa&les";
             this.salesToolStripMenuItem.Click += new System.EventHandler(this.salesToolStripMenuItem_Click);
             // 
@@ -319,7 +334,7 @@
             // 
             this.exitToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(299, 24);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(425, 32);
             this.exitToolStripMenuItem.Text = "&Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -332,14 +347,14 @@
             this.setupItemToolStripMenuItem});
             this.setupToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.setupToolStripMenuItem.Name = "setupToolStripMenuItem";
-            this.setupToolStripMenuItem.Size = new System.Drawing.Size(59, 23);
+            this.setupToolStripMenuItem.Size = new System.Drawing.Size(80, 32);
             this.setupToolStripMenuItem.Text = "&Setup";
             // 
             // setupCategoryToolStripMenuItem
             // 
             this.setupCategoryToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.setupCategoryToolStripMenuItem.Name = "setupCategoryToolStripMenuItem";
-            this.setupCategoryToolStripMenuItem.Size = new System.Drawing.Size(183, 24);
+            this.setupCategoryToolStripMenuItem.Size = new System.Drawing.Size(252, 32);
             this.setupCategoryToolStripMenuItem.Text = "&Setup Category";
             this.setupCategoryToolStripMenuItem.Click += new System.EventHandler(this.setupCategoryToolStripMenuItem_Click);
             // 
@@ -347,7 +362,7 @@
             // 
             this.setupCompanyToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.setupCompanyToolStripMenuItem.Name = "setupCompanyToolStripMenuItem";
-            this.setupCompanyToolStripMenuItem.Size = new System.Drawing.Size(183, 24);
+            this.setupCompanyToolStripMenuItem.Size = new System.Drawing.Size(252, 32);
             this.setupCompanyToolStripMenuItem.Text = "Setup &Company";
             this.setupCompanyToolStripMenuItem.Click += new System.EventHandler(this.setupCompanyToolStripMenuItem_Click);
             // 
@@ -355,7 +370,7 @@
             // 
             this.setupItemToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.setupItemToolStripMenuItem.Name = "setupItemToolStripMenuItem";
-            this.setupItemToolStripMenuItem.Size = new System.Drawing.Size(183, 24);
+            this.setupItemToolStripMenuItem.Size = new System.Drawing.Size(252, 32);
             this.setupItemToolStripMenuItem.Text = "Setup &Item";
             this.setupItemToolStripMenuItem.Click += new System.EventHandler(this.setupItemToolStripMenuItem_Click);
             // 
@@ -367,14 +382,14 @@
             this.stockOutToolStripMenuItem});
             this.stockToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.stockToolStripMenuItem.Name = "stockToolStripMenuItem";
-            this.stockToolStripMenuItem.Size = new System.Drawing.Size(58, 23);
+            this.stockToolStripMenuItem.Size = new System.Drawing.Size(79, 32);
             this.stockToolStripMenuItem.Text = "S&tock";
             // 
             // stockInToolStripMenuItem1
             // 
             this.stockInToolStripMenuItem1.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.stockInToolStripMenuItem1.Name = "stockInToolStripMenuItem1";
-            this.stockInToolStripMenuItem1.Size = new System.Drawing.Size(145, 24);
+            this.stockInToolStripMenuItem1.Size = new System.Drawing.Size(194, 32);
             this.stockInToolStripMenuItem1.Text = "Stock &In";
             this.stockInToolStripMenuItem1.Click += new System.EventHandler(this.stockInToolStripMenuItem1_Click);
             // 
@@ -382,7 +397,7 @@
             // 
             this.stockOutToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.stockOutToolStripMenuItem.Name = "stockOutToolStripMenuItem";
-            this.stockOutToolStripMenuItem.Size = new System.Drawing.Size(145, 24);
+            this.stockOutToolStripMenuItem.Size = new System.Drawing.Size(194, 32);
             this.stockOutToolStripMenuItem.Text = "Stock &Out";
             this.stockOutToolStripMenuItem.Click += new System.EventHandler(this.stockOutToolStripMenuItem_Click);
             // 
@@ -391,7 +406,7 @@
             this.searchAndViewItemsSummaryToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.searchAndViewItemsSummaryToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.searchAndViewItemsSummaryToolStripMenuItem.Name = "searchAndViewItemsSummaryToolStripMenuItem";
-            this.searchAndViewItemsSummaryToolStripMenuItem.Size = new System.Drawing.Size(84, 23);
+            this.searchAndViewItemsSummaryToolStripMenuItem.Size = new System.Drawing.Size(118, 32);
             this.searchAndViewItemsSummaryToolStripMenuItem.Text = "S&ummary";
             this.searchAndViewItemsSummaryToolStripMenuItem.Click += new System.EventHandler(this.searchAndViewItemsSummaryToolStripMenuItem1_Click);
             // 
@@ -400,7 +415,7 @@
             this.salesToolStripMenuItem1.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.salesToolStripMenuItem1.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.salesToolStripMenuItem1.Name = "salesToolStripMenuItem1";
-            this.salesToolStripMenuItem1.Size = new System.Drawing.Size(56, 23);
+            this.salesToolStripMenuItem1.Size = new System.Drawing.Size(76, 32);
             this.salesToolStripMenuItem1.Text = "S&ales";
             this.salesToolStripMenuItem1.Click += new System.EventHandler(this.salesToolStripMenuItem1_Click);
             // 
@@ -409,7 +424,7 @@
             this.logOutToolStripMenuItem.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.logOutToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.logOutToolStripMenuItem.Name = "logOutToolStripMenuItem";
-            this.logOutToolStripMenuItem.Size = new System.Drawing.Size(77, 23);
+            this.logOutToolStripMenuItem.Size = new System.Drawing.Size(106, 32);
             this.logOutToolStripMenuItem.Text = "&Log Out";
             this.logOutToolStripMenuItem.Click += new System.EventHandler(this.logOutToolStripMenuItem_Click);
             // 
@@ -417,16 +432,16 @@
             // 
             this.exitToolStripMenuItem1.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.exitToolStripMenuItem1.Name = "exitToolStripMenuItem1";
-            this.exitToolStripMenuItem1.Size = new System.Drawing.Size(50, 23);
+            this.exitToolStripMenuItem1.Size = new System.Drawing.Size(66, 32);
             this.exitToolStripMenuItem1.Text = "Exit";
             this.exitToolStripMenuItem1.Click += new System.EventHandler(this.exitToolStripMenuItem1_Click);
             // 
             // Stock_In
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
-            this.ClientSize = new System.Drawing.Size(558, 370);
+            this.ClientSize = new System.Drawing.Size(837, 569);
             this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.reorderLevelLabel);
             this.Controls.Add(this.availableQuantityLabel);
@@ -442,10 +457,12 @@
             this.Controls.Add(this.companyComboBox);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Stock_In";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "StockIn";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Stock_In_FormClosing);
+            this.Load += new System.EventHandler(this.Stock_In_Load);
             ((System.ComponentModel.ISupportInitialize)(this.companyBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.categoryBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.itemBindingSource)).EndInit();
